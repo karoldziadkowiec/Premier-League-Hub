@@ -9,8 +9,7 @@ The main goal of the project is to learn ordered and unordered lists in practice
 Start page:
 ![Start page](https://github.com/karoldziadkowiec/Premier-League-Hub/blob/main/photos/1.png)
 
-The page after clicking on the selected link on the current page:
-Possibility to move to the top by clicking on the arrow.
+The page after clicking on the selected link on the current page. Possibility to move to the top by clicking on the arrow:
 ![After click](https://github.com/karoldziadkowiec/Premier-League-Hub/blob/main/photos/2.png)
 
 Bottom of the page:
