@@ -8,6 +8,10 @@ The main goal of the project is to learn ordered and unordered lists in practice
 
 ![Start page](https://github.com/karoldziadkowiec/Premier-League-Hub/blob/main/photos/1.png)
 
+
+
 ![After click](https://github.com/karoldziadkowiec/Premier-League-Hub/blob/main/photos/2.png)
+
+
 
 ![Bottom of page](https://github.com/karoldziadkowiec/Premier-League-Hub/blob/main/photos/3.png)
