@@ -4,7 +4,7 @@ The project listed is the Premier League Hub website for the 2023/2024 season. T
 
 Technologies used in the project: HTML, CSS, JavaScript (using jQuery).
 
-The main goal of the project is to learn ordered and unordered lists in practice, and to precisely link to elements in the current page. The project includes animations of scrolling to the selected element, which are provided by the jQuery library. A scroll up button has been added which also includes an animation of scrolling to the top.
+The main goal of the project is to learn ordered and unordered lists in practice, and to precisely link to elements in the current page. The project includes animations of scrolling to the selected element, which are provided by the jQuery library. A scroll up button has been added which also includes an animation of scrolling to the top. 
 
 Start page:
 ![Start page](https://github.com/karoldziadkowiec/Premier-League-Hub/blob/main/photos/1.png)
